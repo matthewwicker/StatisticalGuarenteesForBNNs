@@ -12,7 +12,11 @@ neural nets in a Bayesian fashion with Edward and Tensorflow.
 Prior to running the code in this repository we recommend you run the following
 command in order to ensure that all of the correct dependencies are used:
 
+```
+$ virtualenv -p /usr/bin/python2.7 IJCAI-virt
 $ source IJCAI-virt/bin/activate
+$ pip install -r requirements.txt
+```
 
 This will activate the virtual environment for the project.
 
