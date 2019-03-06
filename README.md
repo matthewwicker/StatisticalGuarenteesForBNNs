@@ -1,6 +1,8 @@
 # Statistical Guarantees for Robustness of Bayesian Neural Networks
 
-#### Code for IJCAI 2019 submission
+#### Code for IJCAI 2019 submission:
+
+https://arxiv.org/abs/1903.01980
 
 -------------------------------------
 
