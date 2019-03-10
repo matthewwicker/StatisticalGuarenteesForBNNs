@@ -15,8 +15,8 @@ Prior to running the code in this repository we recommend you run the following
 command in order to ensure that all of the correct dependencies are used:
 
 ```
-$ virtualenv -p /usr/bin/python2.7 IJCAI-virt
-$ source IJCAI-virt/bin/activate
+$ virtualenv -p /usr/bin/python2.7 virt
+$ source virt/bin/activate
 $ pip install -r requirements.txt
 ```
 
