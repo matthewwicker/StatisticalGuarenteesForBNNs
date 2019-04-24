@@ -32,3 +32,8 @@ for invariance tests and then with the cleverhans library for known attacks,
 and the DeepGO algorithm (in MATLAB) for verification/reachability.
 
 -------------------------------------
+
+Note: Since the publication of this paper and running of the results Tensorflow 2.0.0 
+has come out. In the coming month we will update all of the code to the latest versions
+of Tensorflow, Cleverhans, and Edward.
+
